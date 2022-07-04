@@ -1,0 +1,25 @@
+.meme {
+  height: 200px;
+  width: 200px;
+  position: relative;
+  font-size: 150%;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color: rgb(255, 255, 255);
+}
+
+
+.topTxt{
+  position: absolute;
+  top: 10%;
+  left: 10%;
+  right: 10%;
+  text-align: center;
+}
+
+.bottomTxt { 
+  position: absolute;
+  bottom: 10%;
+  left: 10%;
+  right: 10%;
+  text-align: center;
+}
